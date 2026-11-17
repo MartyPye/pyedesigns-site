@@ -47,7 +47,7 @@ def page(path, title, desc, current, body):
 home = f"""
 <div class="eyebrow">Software studio</div>
 <h1>Small, focused software for the things you care about.</h1>
-<p class="lede">{COMPANY} designs and builds niche apps for Apple platforms. We pick one problem, make a tool that does it well, and keep your data yours.</p>
+<p class="lede">We build niche apps for iPhone and iPad. Each one solves a single problem well and keeps your data yours.</p>
 
 <div class="card product">
   <img src="assets/swingjournal-icon.png" alt="SwingJournal app icon">
